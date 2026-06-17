@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **My Korean Self**
-**Last updated: June 16, 2026**
+**Last updated: June 17, 2026**
 
 ## Introduction
 
@@ -10,7 +10,6 @@ My Korean Self ("we", "our", or "the app") is a free mobile application that off
 ## Information We Collect
 
 ### Information You Provide
-- **Display Name**: You may optionally set a display name in the app. This is stored locally on your device only.
 - **Quiz Results**: Your quiz answers and results are stored locally on your device to allow you to view your history and saved results.
 
 ### Information Collected Automatically
@@ -25,12 +24,11 @@ My Korean Self ("we", "our", or "the app") is a free mobile application that off
 ## How We Use Information
 
 - **Quiz Results**: Stored locally on your device so you can review past results and save favorites.
-- **Display Name**: Used only for display within the app on your device.
 - **Advertising**: AdMob uses collected data to serve advertisements. You can opt out of personalized ads through your device's advertising settings.
 
 ## Data Storage and Security
 
-All user data (quiz results, preferences, display name) is stored **locally on your device** using Android's Room database and DataStore. We do not operate any servers or cloud storage for user data. If you uninstall the app, all local data is permanently deleted.
+All user data (quiz results and preferences) is stored **locally on your device** using Android's Room database and DataStore. We do not operate any servers or cloud storage for user data. If you uninstall the app, all local data is permanently deleted.
 
 ## Third-Party Services
 
@@ -41,9 +39,17 @@ The app uses the following third-party services:
 
 These services may collect data as described in their respective privacy policies.
 
+## Data Retention
+
+All quiz results and preferences are stored on your device until you uninstall the app or clear the app's data through your device settings. We do not retain any data on our servers.
+
+## International Data Transfers
+
+AdMob, as a Google service, may process data internationally. For more information about Google's data transfer practices, see [Google's Privacy Policy](https://policies.google.com/privacy).
+
 ## Children's Privacy
 
-The app does not knowingly collect personal information from children under 13. The app content is suitable for general audiences.
+The app does not knowingly collect personal information from children under 13. The app content is suitable for general audiences. We do not require users to provide any personal information. If you are a parent or guardian and believe your child has provided personal information through a third-party service in this app, please contact us so we can assist you.
 
 ## Your Rights
 
@@ -58,7 +64,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: mykoreanself.app@gmail.com
+**Email**: sandhya@beforethemachines.in
 
 ---
 
